@@ -16,7 +16,7 @@ Hello, let me introduce myself here :
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/bremana404)
 
 
-<p align="center"> <a href="//Instagram.com/synchyper"><img align="center" src="https://cardivo.vercel.app/api?name=「 Everything will be daijoubu 」&description=Hi,%20i%27m%20Bremana%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://camo.githubusercontent.com/e2b3a573ee340cb7b3ee273b5ac7a680650f5ef9bb9b26abdb2628510cccbbb4/68747470733a2f2f692e6962622e636f2f36797136747a622f776562622e6a7067&usqp=CAU&backgroundColor=%23ecf0f1&instagram=bremana404&github=Bremana&pattern=ticTacToe&colorPattern=%23eaeaea&site="/></a> </p>
+<p align="center"> <a href="//Instagram.com/synchyper"><img align="center" src="https://cardivo.vercel.app/api?name=「 Everything will be daijoubu 」&description=Hi,%20i%27m%20Bremana%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://camo.githubusercontent.com/e2b3a573ee340cb7b3ee273b5ac7a680650f5ef9bb9b26abdb2628510cccbbb4/68747470733a2f2f692e6962622e636f2f36797136747a622f776562622e6a7067&usqp=CAU&backgroundColor=%23ecf0f1&instagram=bremana404&github=bremana&pattern=ticTacToe&colorPattern=%23eaeaea&site="/></a> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
