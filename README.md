@@ -4,14 +4,8 @@
 
 
 
-Hello, let me introduce myself here :
-- My Name is bremana
-- I'm in grade 12 high school
-- I'm only 16 years old... The right age for dating
-- My hobby is sleeping ( turu) 
-- Maybe that's all... Thanks for viewing
-- Can't JavaScript 😔☝
-
+Pengangguran dengan sejuta mimpi
+#ingpolokercik
 [<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/6281366391843)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/bremana404)
 
