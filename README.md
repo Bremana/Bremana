@@ -6,6 +6,8 @@
 
 Pengangguran dengan sejuta mimpi
 #ingpolokercik
+
+
 [<img src="https://img.shields.io/badge/whatsapp-%808080.svg?&style=for-the-badge&logo=whatsapp&logoColor=white">](https://wa.me/6281366391843)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://instagram.com/bremana404)
 
